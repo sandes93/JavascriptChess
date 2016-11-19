@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>HTML5 Bar Graph</title>
+  </head>
+  <body>
+    <canvas id="canvasId"></canvas>
+    <!--[if IE]><script src="excanvas.js"></script><![endif]-->
+    <script src="barGraph.js"></script>
+    <script>
+      // ... MY CODE ...
+    </script>
+  </body>
+</html>
